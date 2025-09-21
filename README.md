@@ -1,3 +1,0 @@
-# georgedinnwordle
-
-collection of wordles
